@@ -37,7 +37,7 @@
         "dotenv": "^6.0.0",
         "immutability-helper": "^2.7.1",
         "immutable": "^3.8.2",
-        "lodash": "^4.17.10",
+        "lodash": "^4.17.19",
         "lodash-decorators": "^6.0.0",
         "moment": "^2.22.2",
         "prop-types": "^15.6.2",
